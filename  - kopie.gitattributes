@@ -1,0 +1,4 @@
+.*tif filter=lfs diff=lfs merge=lfs -text
+.*png filter=png diff=png merge=png -text
+.*asset filter=asset diff=asset merge=asset -text
+.*tga filter=tga diff=tga merge=tga -text
