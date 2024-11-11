@@ -1,0 +1,1 @@
+In het spel zit er een pleintje een aantal huizen, wegen, winkels en een karakter. de het bestuurbare karakter van het spel is een bal met de W en S keys gaat hij naar voren en met de A en D keys rotate de karakter met de camera, je kunt ook met de skybox material de tijd van de dag veranderen.
